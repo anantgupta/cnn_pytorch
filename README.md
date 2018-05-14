@@ -1,7 +1,6 @@
 # Cnn_pytorch
 
-# Abstract
-This code is a new neural network for image recognition, mainly made for learning purposes.
+This project is a new neural network for image recognition, mainly made for learning purposes.
 The implemented code has a combination of 6 convolutional layers, 6 classifiers for element-wise max operation (ReLu layers) and 2 subregions-wise max operation (maxPool2d layers).
 
 # Technologies
